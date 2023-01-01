@@ -1,0 +1,4 @@
+DB="host=localhost user=root password=secret dbname=echo_auth port=5432 sslmode=disable TimeZone=Asia/Dhaka"
+PORT=8000
+SECRET="fc13c386-89a0-11ed-a1eb-0242ac120002"
+JWT_SECRET="58776f52-f37a-4afc-9432-16c49bc05445"
